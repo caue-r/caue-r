@@ -11,7 +11,7 @@
 <h2> / current skills / </h2>
   
 - <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=#3776AB" alt = "py" />
+  <img src="https://img.shields.io/badge/Python-2E2E2E?style=for-the-badge&logo=python&logoColor=FFD43B" alt="python" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" />
 
 
