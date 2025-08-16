@@ -12,7 +12,7 @@
   
 - <h4> languages </h4>
   <img src="https://img.shields.io/badge/Python-2E2E2E?style=for-the-badge&logo=python&logoColor=FFD43B" alt="python" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" />
+  <img src="https://img.shields.io/badge/mysql-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" />
 
 
 - <h4> tools & libraries </h4>
