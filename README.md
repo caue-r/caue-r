@@ -4,9 +4,9 @@
 
 <h2> / about me /</h2>
   
-- 🎓 data science student  
-- 🌐 computer networks enthusiast  
-- 🤖 AI & ML explorer
+- data science student  
+- computer networks enthusiast  
+- AI & ML explorer
   
 <h2> / current skills / </h2>
   
