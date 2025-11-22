@@ -13,6 +13,7 @@
 - <h4> languages </h4>
   <img src="https://img.shields.io/badge/Python-2E2E2E?style=for-the-badge&logo=python&logoColor=FFD43B" alt="python" />
   <img src="https://img.shields.io/badge/mysql-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="sql" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="C#" />
 
 
 - <h4> tools & libraries </h4>
