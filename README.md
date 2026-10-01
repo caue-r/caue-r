@@ -4,7 +4,7 @@
 
 <h2> / about me /</h2>
   
-- data science student  
+- data science
 - computer networks enthusiast  
 - AI & ML explorer
   
